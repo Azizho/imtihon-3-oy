@@ -1,0 +1,7 @@
+@mixin title ($font-weight, $font-size, $line-height){
+    color: #36536B;
+    font-family: 'DM Serif Display';
+    font-weight: $font-weight;
+    font-size: $font-size;
+    line-height: $line-height;
+}
